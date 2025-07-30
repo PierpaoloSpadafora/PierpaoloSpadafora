@@ -75,7 +75,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/PrusaSlicer_Logo.png" width="40" title="PrusaSlicer"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Prusa-Slicer-Logo.png" width="40" title="PrusaSlicer"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 
 </div>
