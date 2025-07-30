@@ -4,12 +4,12 @@
   <img src="https://img.shields.io/badge/HI%20👋,%20I'M-PIERPAOLO-blueviolet?style=for-the-badge&labelColor=2b2b2b" alt="Hi I'm Pierpaolo" />
 </a>
 
-<br><br>
-
 🎓 MSc Student in Artificial Intelligence & Data Science
 🇮🇹 Italian 
 💻 Passionate about Free and Open Source Software (FOSS/FLOSS)
 🎨 Learning 3D Graphics in my free time
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=PierpaoloSpadafora&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
