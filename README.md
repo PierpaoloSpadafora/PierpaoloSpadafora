@@ -21,8 +21,6 @@
 
 ## 📚 My Skills
 
----
-
 ##### 👨‍💻 Programming and Scripting Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
