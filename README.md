@@ -38,7 +38,7 @@
   <a href="https://t.me/pierspad" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:pierpaolospadafora23@protonmail.com">
+  <a href="mailto:pierpaolospadafora@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
