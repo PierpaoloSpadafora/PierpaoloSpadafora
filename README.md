@@ -1,13 +1,17 @@
 <div align="center">
 
+<div align="center">
+
 <a href="https://github.com/PierpaoloSpadafora" target="_blank">
   <img src="https://img.shields.io/badge/HI%20👋,%20I'M-PIERPAOLO-blueviolet?style=for-the-badge&labelColor=2b2b2b" alt="Hi I'm Pierpaolo" />
 </a>
+<img src="https://img.shields.io/badge/I%20%F0%9F%92%96%20FLOSS-Open%20Source-critical?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=2b2b2b" /> <br>
+<img src="https://img.shields.io/badge/🇮🇹%20Italian-native-red?style=for-the-badge&labelColor=2b2b2b" /> 
+<img src="https://img.shields.io/badge/🎓%20MSc-AI%20&%20Data%20Science-darkgreen?style=for-the-badge&labelColor=2b2b2b" />
+<br>
+<img src="https://img.shields.io/badge/🎨%203D%20Graphics-Learner-orange?style=for-the-badge&labelColor=2b2b2b" />
 
-🎓 MSc Student in Artificial Intelligence & Data Science
-🇮🇹 Italian 
-💻 Passionate about Free and Open Source Software (FOSS/FLOSS)
-🎨 Learning 3D Graphics in my free time
+</div>
 
 <br>
 
