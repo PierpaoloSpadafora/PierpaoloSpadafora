@@ -70,7 +70,7 @@
 ---
 
 ##### 🖨️ 3D Printing, CAD & Design  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/b/be/Prusa-Slicer-Logo.png" width="40" title="PrusaSlicer"/>
