@@ -48,7 +48,7 @@
 ##### 🔙 Backend Development  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tokio_logo.svg/200px-Tokio_logo.svg.png" width="40"/>
 
 ---
 
