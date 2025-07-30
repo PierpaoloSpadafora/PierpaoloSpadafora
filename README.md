@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Pierpaolo</h1>
+
+<center>
+<a href="https://github.com/PierpaoloSpadafora" target="_blank">
+  <img src="https://img.shields.io/badge/HI%20👋,%20I'M-PIERPAOLO-blueviolet?style=for-the-badge&labelColor=2b2b2b" alt="Hi I'm Pierpaolo" />
+</a>
 <p align="center">
   🎓 MSc Student in Artificial Intelligence & Data Science <br>
   🇮🇹 Italian <br>
@@ -6,9 +10,6 @@
     🎨 Learning 3D Graphics in my free time
 
 </p>
-
----
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PierpaoloSpadafora&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -42,3 +43,5 @@
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
+
+</center>
