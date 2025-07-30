@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierpaoloSpadafora&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
-<br><br>
+<br>
 
 <div align="center">
 
