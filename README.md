@@ -19,7 +19,7 @@
 
 <div align="center">
 
-#### 📚 My Skills
+## 📚 My Skills
 
 ---
 
