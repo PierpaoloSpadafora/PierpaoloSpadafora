@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/PierpaoloSpadafora" target="_blank">
+<a href="https://github.com/pierspad" target="_blank">
   <img src="https://img.shields.io/badge/HI%20👋,%20I'M-PIERPAOLO-blueviolet?style=for-the-badge&labelColor=2b2b2b" alt="Hi I'm Pierpaolo" />
 </a>
 <img src="https://img.shields.io/badge/🇮🇹%20Italian-native-red?style=for-the-badge&labelColor=2b2b2b" /> <br>
@@ -15,9 +15,9 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PierpaoloSpadafora&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pierspad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierpaoloSpadafora&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierspad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 <br>
 
